@@ -2,7 +2,7 @@
 
 <strong>Projeto Construído durante o Next Level Week</strong>
 
-Ferramentas utilizadas:<br>
+Skills:<br>
 -
 
 <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="100" >
