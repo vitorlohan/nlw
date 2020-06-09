@@ -1,6 +1,10 @@
 # NLW
 
 <strong>Projeto Construído durante o Next Level Week</strong>
+<br><br>
+
+![logo](https://user-images.githubusercontent.com/59488456/84194074-dc76fa80-aa72-11ea-8e17-6cbc11a296c6.png)
+
 <p>
   <strong>Resumo:</strong>
   Desenvolvido aplicação para coleta de resíduos.<br>
