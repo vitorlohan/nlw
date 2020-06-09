@@ -4,7 +4,7 @@
 <p>
   <strong>Resumo:</strong>
   Desenvolvido aplicação para coleta de resíduos.<br>
-  Comerciantes podem fazer cadastro pelo site e úsuarios podem verificar informações de comercios pelo aplicativo sobre quais fazem coleta
+  Comerciantes podem fazer cadastro pelo site e usuários podem verificar informações de comercios pelo aplicativo sobre quais fazem coleta
   a partir de um mapa da sua região atual, aonde você tem acesso ao nome, endereço, whatsapp e também e-mail.
 </p>
 
